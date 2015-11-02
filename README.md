@@ -1,4 +1,5 @@
 #Wrapper for Dropbox's [zxcvbn](https://github.com/dropbox/zxcvbn)
+[![Build Status](https://travis-ci.org/codetheweb/zxcvbn.svg?branch=master)](https://travis-ci.org/codetheweb/zxcvbn)
 
 ##Install
 ``` shell

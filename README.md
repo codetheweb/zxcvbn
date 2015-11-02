@@ -1,5 +1,10 @@
 #Wrapper for Dropbox's [zxcvbn](https://github.com/dropbox/zxcvbn)
 
+##Install
+``` shell
+meteor add codetheweb:zxcvbn
+```
+
 ##Usage
 ``` javascript
 zxcvbn(password, user_inputs=[])

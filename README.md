@@ -7,6 +7,7 @@ meteor add codetheweb:zxcvbn
 ```
 
 ##Usage
+###(See the offical [docs](https://github.com/dropbox/zxcvbn/blob/master/README.md))
 ``` javascript
 zxcvbn(password, user_inputs=[])
 ```

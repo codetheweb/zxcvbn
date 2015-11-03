@@ -1,13 +1,13 @@
-#Wrapper for Dropbox's [zxcvbn](https://github.com/dropbox/zxcvbn)
+# Wrapper for Dropbox's [zxcvbn](https://github.com/dropbox/zxcvbn)
 [![Build Status](https://travis-ci.org/codetheweb/zxcvbn.svg?branch=master)](https://travis-ci.org/codetheweb/zxcvbn)
 
-##Install
+## Install
 ``` shell
 meteor add codetheweb:zxcvbn
 ```
 
-##Usage
-###(See the offical [docs](https://github.com/dropbox/zxcvbn/blob/master/README.md))
+## Usage
+### (See the offical [docs](https://github.com/dropbox/zxcvbn/blob/master/README.md))
 ``` javascript
 zxcvbn(password, user_inputs=[])
 ```

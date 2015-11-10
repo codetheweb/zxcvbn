@@ -1,6 +1,6 @@
 Package.describe({
   name: 'codetheweb:zxcvbn',
-  version: '4.0.1',
+  version: '4.2.0',
   // Brief, one-line summary of the package.
   summary: "Wrapper for Dropbox's password strength estimator",
   // URL to the Git repository containing the source code for this package.

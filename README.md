@@ -1,6 +1,10 @@
 # Wrapper for Dropbox's [zxcvbn](https://github.com/dropbox/zxcvbn)
 [![Build Status](https://travis-ci.org/codetheweb/zxcvbn.svg?branch=master)](https://travis-ci.org/codetheweb/zxcvbn)
 
+# This is no longer maintained!
+Meteor now supports [installing directly from npm packages](http://info.meteor.com/blog/announcing-meteor-1.3).
+Install the npm-packaged version of zxcvbn with `npm install zxcvbn`, then import and use it just like any other npm package.
+
 ## Install
 ``` shell
 meteor add codetheweb:zxcvbn
